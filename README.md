@@ -16,8 +16,8 @@ This project is a C# Windows application that embeds a React frontend using WebV
 
 ## Features
 
-- **User Management**: Each user has their own task list.
-- **Task Management**: Users can add, edit, and delete tasks.
+- **User Management**: Each user will have their own task list.
+- **Task Management**: Users will add, edit, and delete tasks.
 - **React Frontend**: A responsive and interactive UI built with React.
 - **Django Backend**: A secure and scalable backend with Django.
 - **PostgreSQL Database**: Stores user accounts and tasks.
