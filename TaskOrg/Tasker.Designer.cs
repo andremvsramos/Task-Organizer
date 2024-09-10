@@ -68,7 +68,7 @@ namespace TaskOrg
 
         private void LoadWebView(object sender, System.EventArgs e)
         {
-            string DefaultUrl = "https://localhost:3000";
+            string DefaultUrl = "http://localhost:3000";
             if (!Uri.IsWellFormedUriString(DefaultUrl, UriKind.Absolute))
                 MessageBox.Show("The URL provided isn't valid.");
             else
